@@ -1,1 +1,1 @@
-An instagram clone
+An instagram clone using ruby on rails
