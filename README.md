@@ -1,2 +1,2 @@
 An instagram clone using ruby on rails
-THIS IS WIP.
+THIS IS A WIP.
